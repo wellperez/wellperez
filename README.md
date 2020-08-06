@@ -1,3 +1,6 @@
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com/wellperez/)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/wellperez/)
+
 # Hello!
 
 I'm a 27 years old brazilian who loves music, movies, game and prrograming. 😄
