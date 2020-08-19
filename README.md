@@ -31,4 +31,6 @@ I have experienced a lot of languages, but now i'm in love with JavaScript! ⚡
 
 ✨ Follow your dreams. ✨
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorsnt&layout=compact&theme=dark" width="400px" height="200px" />
+<div align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellperez&layout=compact&theme=dark" width="400px" height="200px" />
+</div>
