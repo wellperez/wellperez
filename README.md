@@ -3,7 +3,7 @@
 
 <div align="center">
  <h1>
-  <img alt="Olá!" src="https://media.giphy.com/media/dWTBGOR6sLLWQvZZ21/giphy.gif" width="45px">
+  <img align="center" alt="Olá!" src="https://media.giphy.com/media/dWTBGOR6sLLWQvZZ21/giphy.gif" width="45px">
   <br />
   <a  target="_blank" href="https://www.linkedin.com/in/wellperez/">
     <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/linkedin.svg" />
@@ -30,3 +30,5 @@ I'm a 27 years old brazilian who loves music, movies, game and programing. 😄
 I have experienced a lot of languages, but now i'm in love with JavaScript! ⚡
 
 ✨ Follow your dreams. ✨
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorsnt&layout=compact&theme=dark" width="400px" height="200px" />
