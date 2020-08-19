@@ -1,8 +1,9 @@
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com/wellperez/)
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/wellperez/)
+
 <div align="center">
  <h1>
-  <img alt="Olá!" src="https://media.giphy.com/media/f5qNV3rAAooViWSWQ7/giphy.gif" width="45px">
+  <img alt="Olá!" src="https://media.giphy.com/media/dWTBGOR6sLLWQvZZ21/giphy.gif" width="45px">
   <br />
   <a  target="_blank" href="https://www.linkedin.com/in/wellperez/">
     <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/linkedin.svg" />
@@ -21,6 +22,7 @@
   </a>
  </h1>
 </div>
+
 # Hello!
 
 I'm a 27 years old brazilian who loves music, movies, game and programing. 😄
