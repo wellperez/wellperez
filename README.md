@@ -25,7 +25,7 @@
 
 # Hello!
 
-I'm a 27 years old brazilian who loves music, movies, game and programing. 😄
+I'm a 27 years old brazilian who loves music, movies, games and programing. 😄
 
 I have experienced a lot of languages, but now i'm in love with JavaScript! ⚡
 
