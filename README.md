@@ -8,9 +8,6 @@
   <a  target="_blank" href="https://www.linkedin.com/in/wellperez/">
     <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/linkedin.svg" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.instagram.com/weellperez/">
-    <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/instagram.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:wellingtonaperez@gmail.com">
     <img alt="Email" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/gmail.svg" />
   </a>&nbsp;&nbsp;&nbsp;
