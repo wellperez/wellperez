@@ -22,9 +22,9 @@
 
 # Hello!
 
-I'm a 27 years old brazilian who loves music, movies, games and programing. 😄
+I'm a 30 years old brazilian who loves music, movies, games and programing. 😄
 
-I have experienced a lot of languages like Ruby, PHP, Pascal, Python. But now i'm in love with JavaScript! ⚡
+I have experienced a lot of languages like Ruby, PHP, Pascal, Python and JavaScript. But now i'm in love with .Net C#! ⚡
 
 ✨ Follow your dreams. ✨
 
